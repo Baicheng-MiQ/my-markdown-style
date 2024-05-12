@@ -1,7 +1,7 @@
 @import url('https://fonts.cdnfonts.com/css/latin-modern-math');
 
- body,html{
-    font-family: 'Latin Modern Math', sans-serif;
+body,html{
+    font-family: 'latin modern math', sans-serif;
     font-size:var(--markdown-font-size, 16px);
     padding:0 26px;
     line-height:var(--markdown-line-height, 22px);
